@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ge75xuv
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ge75xuv/Multiview-Object-Segmentation-with-SAM
+  - ge75xuv/semantic-reasoning-quest3
+  - ge75xuv/lsy_drone_racing
