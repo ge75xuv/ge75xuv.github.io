@@ -28,6 +28,6 @@ latest_posts:
 I am a researcher focused on the spatial understanding of the operating room and its dynamic 3D reconstruction. Previously, I completed my Master's degree at the Technical University of Munich (TUM), where I worked on machine learning, signal representations, and semantic scene understanding.
 
 During my Master's, I completed two research projects: **PanORama**, in collaboration with Ege Ozsoy under the supervision of Prof. Nassir Navab, and **TransPNPC**, during a research internship at the Huawei Research Center Munich. 
-[//]: # (Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.)  
+[Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.]: #   
 
-[//]: # (Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)  
+[Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.]: #
