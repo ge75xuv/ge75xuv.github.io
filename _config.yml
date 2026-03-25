@@ -9,7 +9,7 @@ last_name: Gurbuz
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: # the ">" symbol means to ignore newlines until "footer_text:"
-  Hello! It’s Tuna here :wave: My research centers on the spatial understanding of the operating room and its dynamic 3D reconstruction. Previously, I was a Master’s student at TUM. During my Master’s studies, I focused on machine learning, signal representations, and semantic scene understanding. I completed two research projects, PanORama with Ege Ozsoy, under the supervision of Prof. Nassir Navab, and TransPNPC, during my research internship at the Huawei Research Center Munich.
+  Hello! It’s Tuna here! My research centers on the spatial understanding of the operating room and its dynamic 3D reconstruction. Previously, I was a Master’s student at TUM. During my Master’s studies, I focused on machine learning, signal representations, and semantic scene understanding. I completed two research projects, PanORama with Ege Ozsoy, under the supervision of Prof. Nassir Navab, and TransPNPC, during my research internship at the Huawei Research Center Munich.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -19,7 +19,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ge75xuv.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -155,7 +155,7 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
@@ -163,7 +163,7 @@ collections:
   projects:
     output: true
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -279,8 +279,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Gürbüz]
+  first_name: [Tuna]
 
   style: apa
   locale: en
