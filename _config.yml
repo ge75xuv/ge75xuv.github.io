@@ -8,7 +8,7 @@ middle_name:
 last_name: Gurbuz
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: # the ">" symbol means to ignore newlines until "footer_text:"
   Hello! It’s Tuna here :wave: My research centers on the spatial understanding of the operating room and its dynamic 3D reconstruction. Previously, I was a Master’s student at TUM. During my Master’s studies, I focused on machine learning, signal representations, and semantic scene understanding. I completed two research projects, PanORama with Ege Ozsoy, under the supervision of Prof. Nassir Navab, and TransPNPC, during my research internship at the Huawei Research Center Munich.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
