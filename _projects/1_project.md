@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 1
-description: with background image
-img: assets/img/12.jpg
+description: Panoptic segmentation for multi-camera system is an open problem, where each camera can utilize information from adjacent cameras. We tackled this problem as a part of my master's thesis.
+img: assets/img/publication_preview/PanORama.webp
 importance: 1
 category: work
 related_publications: true
