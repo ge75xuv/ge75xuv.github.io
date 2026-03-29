@@ -3,7 +3,7 @@ layout: page
 title: Reinforcement Learning for Drone Racing
 description: My colleague and I developed two different approaches for a drone racing challenge, where the drone needs to go through the gates and avoid obstacles. He focused on automatic and smart ways to generate a drone trajectory, where I tried to improve the performance under unknown dynamics or noise using a shared control approach. I trained an RL agent using the progress reward for path planning and used the convex combination of the precalculated trajectory and RL agent.
 img: assets/img/Figure_wp.png
-importance: 3
+importance: 1
 category: work
 related_publications: false
 ---
@@ -25,5 +25,5 @@ The figures below summarize the approach and results.
     </div>
 </div>
 <div class="caption">
-    Left to right: method overview, training pipeline, and final performance results.
+    The drone trajectory from different perspectives under modelling mismatch and measurement noise.
 </div>
