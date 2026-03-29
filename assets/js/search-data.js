@@ -405,16 +405,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-completed-my-master-s-studies-at-the-technical-university-of-munich-with-high-distinction",
+          title: 'Completed my master’s studies at the Technical University of Munich with high distinction....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-transpnpc-paper-is-submitted-to-2026-ieee-sensor-array-and-multichannel-signal-processing-workshop-sam",
+          title: 'TransPNPC paper is submitted to 2026 IEEE Sensor Array and Multichannel Signal Processing...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-panorama-is-submitted-to-medical-image-computing-and-computer-assisted-intervention-miccai-2026",
+          title: 'PanORama is submitted to MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI) 2026....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
