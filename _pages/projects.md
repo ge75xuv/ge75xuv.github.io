@@ -5,7 +5,7 @@ permalink: /projects/
 description: # A growing collection of your cool projects.
 nav: true
 nav_order: 3
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->

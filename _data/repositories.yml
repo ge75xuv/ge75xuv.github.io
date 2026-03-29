@@ -5,5 +5,6 @@ repo_description_lines_max: 2
 
 github_repos:
   - ge75xuv/Multiview-Object-Segmentation-with-SAM
-  - ge75xuv/semantic-reasoning-quest3
+  - ge75xuv/DiffusionModelsforMRI
   - ge75xuv/lsy_drone_racing
+  - ge75xuv/semantic-reasoning-quest3
