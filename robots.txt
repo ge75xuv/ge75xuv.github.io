@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tunagurbuz.github.io/sitemap.xml
+Sitemap: https://ge75xuv.github.io/sitemap.xml
