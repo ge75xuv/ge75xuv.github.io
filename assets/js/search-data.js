@@ -416,7 +416,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-mri-reconstruction-with-diffusion",
           title: 'MRI Reconstruction with Diffusion',
-          description: "DDPM-based generative MRI reconstruction from undersampled MRI measurement.",
+          description: "Trained a DDPM diffusion model to learn the probability distrubution of the MRI image space. Then used the pre-trained model to reconstruct an undersampled MRI measurement using a varitaional approach, where the intial signal $x$ is optimized with regards to a model consistency and MRI regularization loss.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-using-quest-3-for-scene-understanding",
@@ -429,36 +429,6 @@ ninja.data = [{
           description: "My colleague and I developed two different approaches for a drone racing challenge, where the drone needs to go through the gates and avoid obstacles. He focused on automatic and smart ways to generate a drone trajectory, where I tried to improve the performance under unknown dynamics or noise using a shared control approach. I trained an RL agent using the progress reward for path planning and used the convex combination of the precalculated trajectory and RL agent.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
