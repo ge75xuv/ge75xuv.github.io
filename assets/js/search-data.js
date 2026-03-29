@@ -414,19 +414,19 @@ ninja.data = [{
           section: "News",},{id: "news-panorama-is-submitted-to-medical-image-computing-and-computer-assisted-intervention-miccai-2026",
           title: 'PanORama is submitted to MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI) 2026....',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "Panoptic segmentation for multi-camera system is an open problem, where each camera can utilize information from adjacent cameras. We tackled this problem as a part of my master&#39;s thesis.",
+          section: "News",},{id: "projects-mri-reconstruction-with-diffusion",
+          title: 'MRI Reconstruction with Diffusion',
+          description: "DDPM-based generative MRI reconstruction from undersampled MRI measurement.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-using-quest-3-for-scene-understanding",
+          title: 'Using Quest 3 for Scene Understanding',
+          description: "Developed a Unity App and deployed it on a Quest 3 to access the camera pose and pre-scanned scene mesh. After some hacky ways to obtain the camera feed of the headset, I ran panoptic segmentation on it and ray-traced from the headset pose to the mesh to label the objects in the scene according to the panoptic masks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-reinforcement-learning-for-drone-racing",
+          title: 'Reinforcement Learning for Drone Racing',
+          description: "My colleague and I developed two different approaches for a drone racing challenge, where the drone needs to go through the gates and avoid obstacles. He focused on automatic and smart ways to generate a drone trajectory, where I tried to improve the performance under unknown dynamics or noise using a shared control approach. I trained an RL agent using the progress reward for path planning and used the convex combination of the precalculated trajectory and RL agent.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
