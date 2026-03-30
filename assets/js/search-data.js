@@ -429,6 +429,11 @@ ninja.data = [{
           description: "My colleague and I developed two different approaches for a drone racing challenge, where the drone needs to go through the gates and avoid obstacles. He focused on automatic and smart ways to generate a drone trajectory, where I tried to improve the performance under unknown dynamics or noise using a shared control approach. I trained an RL agent using the progress reward for path planning and used the convex combination of the precalculated trajectory and RL agent.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-archery-shooting-with-nao-robot",
+          title: 'Archery Shooting with NAO Robot',
+          description: "ROS-based NAO target-shooting game with human-assisted bow loading.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
