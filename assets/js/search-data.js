@@ -414,7 +414,7 @@ ninja.data = [{
           section: "News",},{id: "news-panorama-is-submitted-to-medical-image-computing-and-computer-assisted-intervention-miccai-2026",
           title: 'PanORama is submitted to MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION (MICCAI) 2026....',
           description: "",
-          section: "News",},{id: "news-transpnpc-got-accepted-in-ieee-sensor-array-and-multichannel-signal-processing-sam-2026-a-link-to-the-pdf-is-coming-on-29-04-2026",
+          section: "News",},{id: "news-transpnpc-got-accepted-in-ieee-sensor-array-and-multichannel-signal-processing-sam-2026",
           title: 'TransPNPC got accepted in IEEE Sensor Array and Multichannel Signal Processing (SAM) 2026....',
           description: "",
           section: "News",},{id: "projects-mri-reconstruction-with-diffusion",
