@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TransPNPC got **accepted** in IEEE Sensor Array and Multichannel Signal Processing (SAM) 2026. A link to the pdf is coming on 29.04.2026
+TransPNPC got **accepted** in IEEE Sensor Array and Multichannel Signal Processing (SAM) 2026.
